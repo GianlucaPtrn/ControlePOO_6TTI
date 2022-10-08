@@ -1,0 +1,5 @@
+C:\Users\gmist\OneDrive\Bureau\UAA14_C#\I1P622_GianlucaPetronio\I1P622_GianlucaPetronio\obj\Debug\net6.0\I1P622_GianlucaPetronio.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\UAA14_C#\I1P622_GianlucaPetronio\I1P622_GianlucaPetronio\obj\Debug\net6.0\I1P622_GianlucaPetronio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\UAA14_C#\I1P622_GianlucaPetronio\I1P622_GianlucaPetronio\obj\Debug\net6.0\I1P622_GianlucaPetronio.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\UAA14_C#\I1P622_GianlucaPetronio\I1P622_GianlucaPetronio\obj\Debug\net6.0\I1P622_GianlucaPetronio.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\UAA14_C#\I1P622_GianlucaPetronio\I1P622_GianlucaPetronio\obj\Debug\net6.0\I1P622_GianlucaPetronio.csproj.CoreCompileInputs.cache
